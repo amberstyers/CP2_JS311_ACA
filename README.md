@@ -1,2 +1,2 @@
 # CP2_JS311_ACA
-CP2
+ER Diagram for app, not sure which one I will use, though. 
